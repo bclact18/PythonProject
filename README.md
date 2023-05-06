@@ -1,2 +1,2 @@
 # PythonProject
-Some project written in Python
+Some of my own project written in Python
